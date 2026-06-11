@@ -53,7 +53,7 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 
 ## Um pouco mais sobre a base
 
-[Clique aqui](referencias/01_dicionário_de_dados.md) para ver um dicion[ario de dados da base utilizado
+[Clique aqui](referencias/01_dicionario_de_dados.md) para ver um dicion[ario de dados da base utilizado
 
 ## Resumo dos principais resultados
 
